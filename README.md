@@ -2,7 +2,8 @@
 
 Using this application you can generate random numbers within a specified range.
 
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+<img width="235" alt="image" src="https://github.com/arora-kapil/randomNumberGenerator/assets/78464909/c28e71f3-712f-4fdb-bbef-5bf34f364e4b">
+
 
 # Getting Started
 
